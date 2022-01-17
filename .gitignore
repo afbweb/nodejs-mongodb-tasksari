@@ -1,0 +1,8 @@
+#.las variables de entorno
+.env
+
+#.estas son las dependencias de node
+node_modules
+
+#.esta es la carpeta de de build (trabajo terminado)
+dist
